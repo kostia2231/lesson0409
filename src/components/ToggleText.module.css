@@ -10,6 +10,12 @@ button {
   border-radius: 5px;
 }
 
+button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
 input {
   padding: 10px;
   border: none;
