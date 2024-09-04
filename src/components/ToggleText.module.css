@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 225, 230);
+}
+
+button {
+  background-color: white;
+  padding: 10px 30px;
+  border: none;
+  width: 250px;
+  border-radius: 5px;
+}
+
+input {
+  padding: 10px;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.textWrapper {
+  background-color: white;
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.topWrapper {
+  display: flex;
+  gap: 5px;
+}
